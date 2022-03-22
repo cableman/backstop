@@ -1,0 +1,14 @@
+[
+  {
+    "domain": ".foreningsmentor.dk",
+    "path": "/",
+    "name": "CookieInformationConsent",
+    "value": "%7B%22website_uuid%22%3A%22c3bf4a6d-98bf-4af1-acb2-fb140c58c1a8%22%2C%22timestamp%22%3A%222022-03-22T12%3A14%3A09.004Z%22%2C%22consent_url%22%3A%22https%3A%2F%2Fforeningsmentor.dk%2Fnode%2F1%22%2C%22consent_website%22%3A%22foreningsmentor.dk%22%2C%22consent_domain%22%3A%22foreningsmentor.dk%22%2C%22user_uid%22%3A%227be3c960-b121-4dd5-b66e-4cc3a532ea15%22%2C%22consents_approved%22%3A%5B%22cookie_cat_necessary%22%2C%22cookie_cat_functional%22%2C%22cookie_cat_statistic%22%2C%22cookie_cat_marketing%22%2C%22cookie_cat_unclassified%22%5D%2C%22consents_denied%22%3A%5B%5D%2C%22user_agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F99.0.4844.74%20Safari%2F537.36%22%7D",
+    "expirationDate": 1798790400,
+    "hostOnly": false,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "Lax"
+  }
+]
