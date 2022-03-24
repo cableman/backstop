@@ -1,0 +1,14 @@
+[
+  {
+    "domain": ".itchefer.dk",
+    "path": "/",
+    "name": "CookieInformationConsent",
+    "value": "%7B%22website_uuid%22%3A%22f5cfd77f-0527-458e-8aba-956dd9ad5865%22%2C%22timestamp%22%3A%222022-03-24T08%3A36%3A48.369Z%22%2C%22consent_url%22%3A%22https%3A%2F%2Fitchefer.dk%2F%22%2C%22consent_website%22%3A%22itchefer.srvitkphp74stg.itkdev.dk%2F%22%2C%22consent_domain%22%3A%22itchefer.dk%22%2C%22user_uid%22%3A%22cc4b6f40-5cdd-49b4-9468-b6f7444b3c59%22%2C%22consents_approved%22%3A%5B%22cookie_cat_necessary%22%2C%22cookie_cat_functional%22%2C%22cookie_cat_statistic%22%2C%22cookie_cat_marketing%22%2C%22cookie_cat_unclassified%22%5D%2C%22consents_denied%22%3A%5B%5D%2C%22user_agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F99.0.4844.83%20Safari%2F537.36%22%7D",
+    "expirationDate": 1798790400,
+    "hostOnly": false,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "Lax"
+  }
+]
